@@ -1,0 +1,10 @@
+{
+    "dev":{
+        "driver":"pg",
+        "user":"postgres",
+        "host":"localhost",
+        "database":"catastro",
+        "password":"12345"
+        
+    }
+}

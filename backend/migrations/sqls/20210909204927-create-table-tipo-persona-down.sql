@@ -1,0 +1,1 @@
+DROP TABLE catastro.tipo_persona;
